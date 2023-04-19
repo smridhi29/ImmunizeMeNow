@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ```
 
-## Usage/Examples
+## Usage
 To use the application, follow these steps:
 
 Open a terminal and navigate to the directory where the application is installed
